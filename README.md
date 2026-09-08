@@ -1,7 +1,7 @@
 # Laravel MCP Gateway Starter
 
 [![tests](https://github.com/lionking-123/laravel-mcp-gateway-starter/actions/workflows/tests.yml/badge.svg)](https://github.com/lionking-123/laravel-mcp-gateway-starter/actions/workflows/tests.yml)
-![PHP 8.2+](https://img.shields.io/badge/php-8.2%2B-777bb4)
+![PHP 8.3+](https://img.shields.io/badge/php-8.3%2B-777bb4)
 ![Laravel 12](https://img.shields.io/badge/laravel-12-ff2d20)
 ![MIT](https://img.shields.io/badge/license-MIT-blue)
 
@@ -59,7 +59,7 @@ The consent screen your users see before a client can call anything:
 
 ## Quickstart (about five minutes)
 
-Requirements: PHP 8.2+ with `sodium`, `pdo_sqlite`, `openssl`; Composer.
+Requirements: PHP 8.3+ with `sodium`, `pdo_sqlite`, `openssl`; Composer.
 
 ```bash
 git clone https://github.com/lionking-123/laravel-mcp-gateway-starter.git
